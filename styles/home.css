@@ -1,0 +1,18 @@
+body {
+  background: #cccccc;
+}
+
+h1, p {
+  text-align: center;
+}
+#missao {
+  font-size: 20px;
+}
+
+i strong {
+  color: red;
+}
+
+#banner  {
+  width: 100%;
+}
