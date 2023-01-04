@@ -9,7 +9,10 @@ body {
   background: #cccccc;
   padding: 30px;
 }
-h1, p {
+.titulo-principal{
+  padding-left: 20px;
+}
+.titulo-centralizado, p {
   text-align: center;
 }
 #missao {
@@ -20,16 +23,12 @@ i strong {
   color: red;
 }
 
-
 .itens {
   font-style: italic;
 }
 .beneficios{
   background: white;
   padding: 20px;
-}
-h2 {
-  text-align: center;
 }
 ul {
   display: inline-block;
